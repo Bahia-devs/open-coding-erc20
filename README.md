@@ -5,6 +5,8 @@ Neste open-coding nós criamos uma moeda/token em uma rede blockchain testnet. P
 ## Instalações
 
 - [Extensão do Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+- Crie uma carteira no Metamask (Não esqueça de guardar as palavras mnemonicas num local seguro)
+- Adicione `tBNB` de teste na carteira no site [BSC faucet](https://www.bnbchain.org/en/testnet-faucet).
 
 ## Passos para criar workspace no RemixIDE
 
@@ -12,9 +14,8 @@ Neste open-coding nós criamos uma moeda/token em uma rede blockchain testnet. P
 - Crie um novo workspace utilizando o `ERC20` da `OpenZeppelin` como template
 - Selecione o `Mintable` e `Burnable` e confirme
 
-
 # Links
 
 - [RemixIDE](https://remix.ethereum.org/)
-- [Binance Smart Chain Scan](https://testnet.bscscan.com/)
-- 
+- [Binance Smart Chain (BSC) Scan](https://testnet.bscscan.com/)
+- [BSC faucet](https://www.bnbchain.org/en/testnet-faucet)

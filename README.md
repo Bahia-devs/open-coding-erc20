@@ -4,6 +4,17 @@ Neste open-coding nós criamos uma moeda/token em uma rede blockchain testnet. P
 
 [Clique para ver nosso token na rede BSC testnet](https://testnet.bscscan.com/token/0xc5a3b13d8961a276b2d72c83f36a5a94b1e204a5#balances)
 
+Veja aqui as anotações da explicação teórica que fizemos no Excalidraw:
+
+<details>
+<summary>Anotações</summary>
+
+<div align="center">
+    <img src="https://github.com/Bahia-devs/open-coding-erc20/blob/main/draw.png" alt="Anotações do Excalidraw"/>
+</div>
+
+</details>
+
 ## Instalações
 
 - [Extensão do Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
